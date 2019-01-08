@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppMetricsNLogTest", "AppMetricsNLogTest\AppMetricsNLogTest.csproj", "{7A925C44-3234-4EBC-B9F0-F549EEE42EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A925C44-3234-4EBC-B9F0-F549EEE42EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A925C44-3234-4EBC-B9F0-F549EEE42EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A925C44-3234-4EBC-B9F0-F549EEE42EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A925C44-3234-4EBC-B9F0-F549EEE42EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B45F8056-E8C4-48F8-B3F1-311A29504C6B}
+	EndGlobalSection
+EndGlobal
